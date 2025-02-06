@@ -18,6 +18,10 @@ body {
 }
 
 h1 {
+    margin-bottom: 10px;
+}
+
+#lives {
     margin-bottom: 20px;
 }
 
